@@ -1,0 +1,11 @@
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\bin\Debug\netcoreapp2.0\Switchprogram.deps.json
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\bin\Debug\netcoreapp2.0\Switchprogram.runtimeconfig.json
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\bin\Debug\netcoreapp2.0\Switchprogram.runtimeconfig.dev.json
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\bin\Debug\netcoreapp2.0\Switchprogram.dll
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\bin\Debug\netcoreapp2.0\Switchprogram.pdb
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.csprojAssemblyReference.cache
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.csproj.CoreCompileInputs.cache
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.AssemblyInfoInputs.cache
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.AssemblyInfo.cs
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.dll
+c:\users\shreeya\source\repos\Switchprogram\Switchprogram\obj\Debug\netcoreapp2.0\Switchprogram.pdb

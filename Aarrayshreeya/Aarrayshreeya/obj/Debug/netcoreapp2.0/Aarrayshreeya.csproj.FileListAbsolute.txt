@@ -1,0 +1,11 @@
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\bin\Debug\netcoreapp2.0\Aarrayshreeya.deps.json
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\bin\Debug\netcoreapp2.0\Aarrayshreeya.runtimeconfig.json
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\bin\Debug\netcoreapp2.0\Aarrayshreeya.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\bin\Debug\netcoreapp2.0\Aarrayshreeya.dll
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\bin\Debug\netcoreapp2.0\Aarrayshreeya.pdb
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.csprojAssemblyReference.cache
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.dll
+C:\Users\shreeya\source\repos\Aarrayshreeya\Aarrayshreeya\obj\Debug\netcoreapp2.0\Aarrayshreeya.pdb

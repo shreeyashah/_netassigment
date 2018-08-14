@@ -1,0 +1,11 @@
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\bin\Debug\netcoreapp2.0\EqualityTask.deps.json
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\bin\Debug\netcoreapp2.0\EqualityTask.runtimeconfig.json
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\bin\Debug\netcoreapp2.0\EqualityTask.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\bin\Debug\netcoreapp2.0\EqualityTask.dll
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\bin\Debug\netcoreapp2.0\EqualityTask.pdb
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.csprojAssemblyReference.cache
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.dll
+C:\Users\shreeya\source\repos\EqualityTask\EqualityTask\obj\Debug\netcoreapp2.0\EqualityTask.pdb

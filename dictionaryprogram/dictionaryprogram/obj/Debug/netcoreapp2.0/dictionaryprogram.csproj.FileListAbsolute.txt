@@ -1,0 +1,11 @@
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\bin\Debug\netcoreapp2.0\dictionaryprogram.deps.json
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\bin\Debug\netcoreapp2.0\dictionaryprogram.runtimeconfig.json
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\bin\Debug\netcoreapp2.0\dictionaryprogram.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\bin\Debug\netcoreapp2.0\dictionaryprogram.dll
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\bin\Debug\netcoreapp2.0\dictionaryprogram.pdb
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.csprojAssemblyReference.cache
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.dll
+C:\Users\shreeya\source\repos\dictionaryprogram\dictionaryprogram\obj\Debug\netcoreapp2.0\dictionaryprogram.pdb

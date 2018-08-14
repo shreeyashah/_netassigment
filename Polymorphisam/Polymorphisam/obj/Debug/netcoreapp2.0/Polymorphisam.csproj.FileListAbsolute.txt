@@ -1,0 +1,11 @@
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\bin\Debug\netcoreapp2.0\Polymorphisam.deps.json
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\bin\Debug\netcoreapp2.0\Polymorphisam.runtimeconfig.json
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\bin\Debug\netcoreapp2.0\Polymorphisam.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\bin\Debug\netcoreapp2.0\Polymorphisam.dll
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\bin\Debug\netcoreapp2.0\Polymorphisam.pdb
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.csprojAssemblyReference.cache
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.dll
+C:\Users\shreeya\source\repos\Polymorphisam\Polymorphisam\obj\Debug\netcoreapp2.0\Polymorphisam.pdb

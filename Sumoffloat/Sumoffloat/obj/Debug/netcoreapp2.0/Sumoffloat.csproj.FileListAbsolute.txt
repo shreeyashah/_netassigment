@@ -1,0 +1,11 @@
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\bin\Debug\netcoreapp2.0\Sumoffloat.deps.json
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\bin\Debug\netcoreapp2.0\Sumoffloat.runtimeconfig.json
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\bin\Debug\netcoreapp2.0\Sumoffloat.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\bin\Debug\netcoreapp2.0\Sumoffloat.dll
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\bin\Debug\netcoreapp2.0\Sumoffloat.pdb
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.csprojAssemblyReference.cache
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.dll
+C:\Users\shreeya\source\repos\Sumoffloat\Sumoffloat\obj\Debug\netcoreapp2.0\Sumoffloat.pdb
