@@ -1,0 +1,67 @@
+<div class="list">
+
+        <table class="table table-hover" id="table2" border="1">
+    
+            
+    
+                <tr>
+    
+                    <th>First Name</th>
+    
+                    <th>Last Name</th>
+    
+                    <th>Email</th>
+    
+                    <th>Contact</th>
+    
+                    <th>Address</th>
+    
+                    <th>Username</th>
+    
+                    <th>Password</th>
+    
+                    <th>Gender</th>
+    
+                    <th>Qualification</th>
+    
+                    <th>Experience</th>
+    
+                    <th>Languages</th>
+    
+                </tr>
+    
+                <tr>
+    
+            <tr *ngFor="let details of data;let i = index;">
+    
+            <td>{{details.firstname}}</td> 
+    
+            <td>{{details.lastname}}</td>
+    
+            <td>{{details.email}}</td> 
+    
+            <td>{{details.contact}}</td>
+    
+            <td>{{details.address}}</td> 
+    
+            <td>{{details.username}}</td>
+    
+            <td>{{details.password}}</td> 
+    
+            <td>{{details.gender}}</td>
+    
+            <td>{{details.qualification}}</td> 
+    
+            <td>{{details.experience}}</td>
+    
+            <td>{{details.languages}}</td>
+    
+            <td><input type="button" value="Delete" (click)="deleteFieldValue(i)"></td>
+    
+            <td><input type="button" value="Edit"></td>
+    
+                </tr>
+    
+        </table>
+    
+    </div>
