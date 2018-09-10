@@ -1,18 +1,7 @@
 import{Component} from '@angular/core';
 
-
-
-
-
-
-
-
-
 @Component({
-
-
-
-    templateUrl:'./Home.component.html'
+templateUrl:'./Home.component.html'
 
 })
 
