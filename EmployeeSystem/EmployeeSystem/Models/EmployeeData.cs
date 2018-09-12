@@ -19,6 +19,7 @@ namespace EmployeeSystem.Models
         public string Surname{ get; set; }
 
         [Required]
+        [StringLength(60)]
         public string Address { get; set; }
 
         [Required]
