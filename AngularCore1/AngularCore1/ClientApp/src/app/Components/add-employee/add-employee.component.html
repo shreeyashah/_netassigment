@@ -1,0 +1,50 @@
+<h1>{{title}}</h1>
+<h3>Employee</h3>
+<hr />
+<form [formGroup]="employeeForm" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Name</label>
+    <div class="col-md-4"> <input class="form-control" type="text" formControlName="name"> </div> <span class="text-danger" *ngIf="name.invalid && formDir.submitted">
+      Name is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Surname</label>
+    <div class="col-md-4"> <input class="form-control" type="text" formControlName="surname"> </div> <span class="text-danger" *ngIf="surname.invalid && formDir.submitted">
+      SurName is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Address</label>
+    <div class="col-md-4"> <input class="form-control" type="text" formControlName="address"> </div> <span class="text-danger" *ngIf="address.invalid && formDir.submitted">
+      address is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Qualification</label>
+    <div class="col-md-4"> <input class="form-control" type="text" formControlName="qualification"> </div> <span class="text-danger" *ngIf="qualification.invalid && formDir.submitted">
+      qualification is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" >Phnno</label>
+    <div class="col-md-4"> <input class="form-control" type="number" formControlName="phnno"> </div> <span class="text-danger" *ngIf="department.invalid && formDir.submitted">
+      phnno is required
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="Department">Department</label>
+    <div class="col-md-4">
+      <select class="form-control" data-val="true" formControlName="department">
+        <option value="">--Select Department--</option>
+        <option *ngFor="let depatment of departmentList"
+                value={{department.Departmentname}}>
+          {{department.Departmentname}}
+        </option>
+      </select>
+    </div> <span class="text-danger" *ngIf="city.invalid && formDir.submitted">
+      City is required
+    </span>
+  </div>
+  <div class="form-group"> <button type="submit" class="btn btn-default">Save</button> <button class="btn" (click)="cancel()">Cancel</button> </div>
+</form>  
