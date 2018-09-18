@@ -34,7 +34,6 @@ var createemployee = /** @class */ (function () {
         var _this = this;
         this._employeeService.getDepartmentList().subscribe(function (data) {
             _this.departmentList = data;
-            // console.log(this.departmentList)
         });
         if (this.employeeId > 0) {
             this.title = "Edit";

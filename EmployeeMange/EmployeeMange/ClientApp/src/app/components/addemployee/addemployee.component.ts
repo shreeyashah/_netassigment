@@ -46,7 +46,7 @@ export class createemployee implements OnInit {
 
 
 
-    this.employeeForm = this._fb.group({
+      this.employeeForm = this._fb.group({
 
       employeeId: 0,
       firstName: ['', [Validators.required]],
@@ -74,7 +74,7 @@ export class createemployee implements OnInit {
 
       data => {
         this.departmentList = data
-         // console.log(this.departmentList)
+         
       }
 
     )

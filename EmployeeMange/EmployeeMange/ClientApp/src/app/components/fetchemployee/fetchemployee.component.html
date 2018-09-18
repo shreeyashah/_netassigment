@@ -19,7 +19,6 @@
       <th>Gender</th>
       <th>Qualification</th>
       <th>Department</th>
-
     </tr>
   </thead>
   <tbody>
@@ -27,12 +26,12 @@
       <td>{{emp.employeeId}}</td>
       <td>{{emp.firstName}}</td>
       <td>{{emp.lastName}}</td>
+      <td>{{emp.contactNumber}}</td>
       <td>{{emp.address}}</td>
       <td>{{emp.gender}}</td>
       <td>{{emp.qualification}}</td>
       <td>{{emp.department}}</td>
-
-      <td>
+       <td>
         <a [routerLink]="['/employee/edit/', emp.employeeId]">Edit</a> |
         <a [routerLink]="" (click)="delete(emp.employeeId)">Delete</a>
       </td>

@@ -16,7 +16,8 @@ import 'rxjs/add/observable/throw';
 
 @Injectable()
 
-export class EmployeeService {
+export class EmployeeService
+{
 
   myAppUrl: string = "";
 

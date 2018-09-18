@@ -22,7 +22,8 @@ export class FetchEmployeeComponent {
 
 
 
-  constructor(public http: Http, private _router: Router, private _employeeService: EmployeeService) {
+  constructor(public http: Http, private _router: Router, private _employeeService: EmployeeService)
+  {
 
     this.getEmployees();
 
@@ -42,17 +43,20 @@ export class FetchEmployeeComponent {
 
 
 
-  delete(employeeID) {
+  delete(employeeID)
+  {
 
     var ans = confirm("Do you want to delete customer with Id: " + employeeID);
 
-    if (ans) {
+    if (ans)
+    {
 
       this._employeeService.deleteEmployee(employeeID).subscribe((data) => {
 
         this.getEmployees();
 
-      }, error => console.error(error))
+      },
+        error => console.error(error))
 
     }
 
