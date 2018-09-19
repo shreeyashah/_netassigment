@@ -1,0 +1,14 @@
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.csproj.CoreCompileInputs.cache
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.RazorAssemblyInfo.cache
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.RazorAssemblyInfo.cs
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.AssemblyInfoInputs.cache
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.AssemblyInfo.cs
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\bin\Debug\netcoreapp2.1\Splitwise.deps.json
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\bin\Debug\netcoreapp2.1\Splitwise.runtimeconfig.json
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\bin\Debug\netcoreapp2.1\Splitwise.runtimeconfig.dev.json
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\bin\Debug\netcoreapp2.1\Splitwise.dll
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\bin\Debug\netcoreapp2.1\Splitwise.pdb
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.RazorTargetAssemblyInfo.cache
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.dll
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.pdb
+C:\Users\shreeya\source\repos\Splitwise\Splitwise\obj\Debug\netcoreapp2.1\Splitwise.csprojAssemblyReference.cache

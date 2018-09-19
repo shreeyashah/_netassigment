@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
-namespace SplitWiseDatabase.Models
+namespace Splitwise.Models
 {
     public class Bill
     {
@@ -16,31 +15,28 @@ namespace SplitWiseDatabase.Models
         public string BillImage { get; set; }
         public string BillNote { get; set; }
         public string Catagory { get; set; }
-        public string catagoryOption { get; set; }
+        public string BillCatagoryName { get; set; }
+        public string CatagoryOptionName { get; set; }
         public string BillReminder { get; set; }
         public string BillRepeats { get; set; }
-
-        public int CatagoryOptionId { get; set; }
-        public int BillCatagoryId { get; set; }
-        public int PaymentId { get; set; }
-        public int ReminderId { get; set; }
-        public int RepeatsId { get; set; }
+        public int ReminderName { get; set; }
+        public int RepeatsName { get; set; }
+        public int UserId { get; set; }
 
         [ForeignKey("CatagoryOptionId")]
-        public  CatagoryOption CatagoryOption { get; set; }
+        public CatagoryOption catagoryOption { get; set; }
 
         [ForeignKey("BillCatagoryId")]
-        public BillCatagory BillCatagory { get; set; }
-
-        [ForeignKey("PaymentId")]
-        public virtual Payment Payment { get; set; }
+        public BillCatagory billCatagory { get; set; }
 
         [ForeignKey(" ReminderId")]
-        public Reminder Reminder { get; set; }
+        public Reminder reminder { get; set; }
 
         [ForeignKey(" RepeatsId")]
-        public Repeats Repeats { get; set; }
+        public Repeats repeats { get; set; }
 
+        [ForeignKey("UserId")]
+        public virtual User user { get; set; }
 
     }
 }
