@@ -8,15 +8,16 @@ namespace Splitwise.Models
 {
     public class Activity
     {
+        
         public int ActivityId { get; set; }
         public string ActivityName { get; set; }
         public int FriendsId { get; set; }
         public int UserId { get; set; }
 
         [ForeignKey("FriendsId")]
-        public virtual Friends friends { get; set; }
+        public ICollection <Friends> friends { get; set; }
 
         [ForeignKey("UserId")]
-        public virtual User user { get; set; }
+        public  ICollection <User> user { get; set; }
     }
 }

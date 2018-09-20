@@ -259,13 +259,11 @@ namespace Splitwise.Migrations
 
             modelBuilder.Entity("Splitwise.Models.SattleUp", b =>
                 {
-                    b.Property<int>("SattleupId")
+                    b.Property<int>("SattleUpId")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int>("FriendsId");
-
-                    b.Property<int>("GroupId");
 
                     b.Property<int>("PaymentModeId");
 
@@ -273,7 +271,7 @@ namespace Splitwise.Migrations
 
                     b.Property<int>("UserId");
 
-                    b.HasKey("SattleupId");
+                    b.HasKey("SattleUpId");
 
                     b.HasIndex("FriendsId");
 

@@ -12,7 +12,5 @@ namespace Splitwise.Models
         public string FriendName { get; set; }
         public string FriendEmail { get; set; }
 
-       
-      
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,7 +11,10 @@ namespace Splitwise.Models
     {
         public int BalanceId { get; set; }
 
+        [Required]
         public int BalanceAmount { get; set; }
+
+        
         public int FriendsId { get; set; }
         public int UserId { get; set; }
       

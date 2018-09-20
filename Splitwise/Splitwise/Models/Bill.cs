@@ -26,9 +26,6 @@ namespace Splitwise.Models
         [ForeignKey("CatagoryOptionId")]
         public CatagoryOption catagoryOption { get; set; }
 
-        [ForeignKey("BillCatagoryId")]
-        public BillCatagory billCatagory { get; set; }
-
         [ForeignKey(" ReminderId")]
         public Reminder reminder { get; set; }
 

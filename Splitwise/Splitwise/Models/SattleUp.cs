@@ -8,10 +8,9 @@ namespace Splitwise.Models
 {
     public class SattleUp
     {
-        public int SattleupId { get; set; }
+        public int SattleUpId { get; set; }
         public int SattleAmount { get; set; }
-        public int PaymentModeId {get;set;}
-        public int GroupId { get; set; }
+        public int PaymentModeId { get; set; }
         public int FriendsId { get; set; }
         public int UserId { get; set; }
 
@@ -23,10 +22,5 @@ namespace Splitwise.Models
 
         [ForeignKey("PaymentModeId")]
         public PaymentMode paymentMode { get; set; }
-
-      
-
-
-
     }
 }

@@ -5,14 +5,18 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Splitwise.Models
-{
+{ 
     public class SplitwiseContext:DbContext
     {
+        public SplitwiseContext()
+        {
+        }
+
         public SplitwiseContext(DbContextOptions<SplitwiseContext> options)
         : base(options)
         {
         }
-        public DbSet<User> users { get; set; }
+        public DbSet<User> user { get; set; }
         public DbSet<Balance> balances { get; set; }
         public DbSet<Bill> bills { get; set; }
         public DbSet<BillCatagory> BillCatagories { get; set; }
@@ -27,5 +31,10 @@ namespace Splitwise.Models
         public DbSet<Reminder> reminders { get; set; }
         public DbSet<Shared> shareds { get; set; }
         public DbSet<CatagoryOption> catagoryOptions { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+
+        }
     }
 }

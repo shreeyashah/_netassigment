@@ -14,7 +14,8 @@ namespace Splitwise.Models
         public int UserId { get; set; }
 
         [ForeignKey("FriendsId")]
-        public virtual Friends friends { get; set; }
+        public virtual  ICollection<Friends> Friends { get; set; }
+
 
         [ForeignKey("UserId")]
         public virtual User user { get; set; }
